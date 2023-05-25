@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [个人技术博客](https://喜欢上一个人.fun/archives/)
 - 还可以在这些地方找到我：
 - [GitHub](https://github.com/WangGuanJingJi) | 
-  [哔哩哔哩](https://space.bilibili.com/1571631329)
+  [哔哩哔哩](https://space.bilibili.com/1571631329) | 
   [知乎](https://www.zhihu.com/people/wang-guan-jing-ji)
 
 如果你也想拥有这样的个人简介，可以参考：
